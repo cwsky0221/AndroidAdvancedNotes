@@ -1,6 +1,6 @@
-#Android库发布到Maven Central 流程：
+# Android库发布到Maven Central 流程：
 
-#第一步·注册
+# 第一步·注册
 Maven Central是由sonatype运营的，那么首先需要去注册一个sonatype的账号并获得仓库使用许可。
 
 先前往issues.sonatype.org注册账号，界面如图，点击红框部分：
@@ -12,7 +12,7 @@ Maven Central是由sonatype运营的，那么首先需要去注册一个sonatype
 
 ![](https://github.com/cwsky0221/notes/blob/main/pic/3FA44E50-5911-46BC-A8DC-181F6972A922.png?raw=true)
 
-#第二步·Gradle准备
+# 第二步·Gradle准备
 接下来需要进入你的项目，完成一系列的配置，请先参考下载下边的gradle文件放置在项目的根目录，请注意文中中文部分请按照需要自行修改：
 
 文件：publish-mavencentral.gradle
@@ -126,7 +126,7 @@ signing {
 
 ```
 
-#第三步·签名秘钥申请
+# 第三步·签名秘钥申请
 
 我这边使用的mac，就只说mac的步骤了，windows也差不多
 下载地址：https://www.gnupg.org/download/index.html   
@@ -148,7 +148,7 @@ ossrhUsername=sonatype帐号
 ossrhPassword=sonatype密码
 ```
 
-第四步·上传
+# 第四步·上传
 先进入你的Module的build.gradle，添加以下代码：
 ```
 ext {
