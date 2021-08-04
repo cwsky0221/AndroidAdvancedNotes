@@ -3,7 +3,7 @@
 # 第一步·注册
 Maven Central是由sonatype运营的，那么首先需要去注册一个sonatype的账号并获得仓库使用许可。
 
-先前往issues.sonatype.org注册账号，界面如图，点击红框部分：
+先前往issues.sonatype.org注册账号，界面如图，点击红框部分：  
 ![注册](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e0f5b0887fa4480ebad6f055c11a70d9~tplv-k3u1fbpfcp-zoom-1.image)
 
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/66e5dde710184d528454a71be6511c38~tplv-k3u1fbpfcp-zoom-1.image)
