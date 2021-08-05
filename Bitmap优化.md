@@ -49,7 +49,7 @@ Bitmap内存占用 ≈ 像素数据总大小 = 图片宽 × 图片高× (当前�
 下面我们一个个的来讲这些优化
 
 ### 编码
-![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2019/8/19/16ca99cc6a78c80a~tplv-t2oaga2asx-no-mark:1280:960:0:0.awebp)
+![](https://github.com/cwsky0221/ImageCache/blob/main/B817E121-F9DE-4A11-87F6-7504237051EF.png?raw=true)
 
 其中，A代表透明度；R代表红色；G代表绿色；B代表蓝色。
 
