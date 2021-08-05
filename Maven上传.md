@@ -10,7 +10,7 @@ Maven Central是由sonatype运营的，那么首先需要去注册一个sonatype
 
 名称直接填写项目名就行，重点是Group ID,一般填写github的地址:io.github.xxx,然后等待官方回复，官方会让你创建一个repo来验证（下图），按照他说的来就行，这一步有的同学说很慢，但是我这边还是挺快的
 
-![](https://github.com/cwsky0221/notes/blob/main/pic/3FA44E50-5911-46BC-A8DC-181F6972A922.png?raw=true)
+![](https://github.com/cwsky0221/ImageCache/blob/main/3FA44E50-5911-46BC-A8DC-181F6972A922.png?raw=true)
 
 # 第二步·Gradle准备
 接下来需要进入你的项目，完成一系列的配置，请先参考下载下边的gradle文件放置在项目的根目录，请注意文中中文部分请按照需要自行修改：
@@ -132,7 +132,7 @@ signing {
 下载地址：https://www.gnupg.org/download/index.html   
 
 
-![秘钥](https://github.com/cwsky0221/notes/blob/main/pic/6FA21D24-6757-4E70-ADD0-03FF7F75EBD3.png?raw=true)
+![秘钥](https://github.com/cwsky0221/ImageCache/blob/main/6FA21D24-6757-4E70-ADD0-03FF7F75EBD3.png?raw=true)
 
 下载之后直接生成key,并且需要点击在服务器上发布，网上都说直接导出key成gpg文件，但是我这边导出的文件后面不能识别成功，我采用的是命令的方式：
 ```
