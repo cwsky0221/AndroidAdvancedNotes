@@ -11,6 +11,8 @@
 
 ### [2.Bitmap优化](https://github.com/cwsky0221/AndroidAdvancedNotes/blob/main/%E8%BF%9B%E9%98%B6%E7%9F%A5%E8%AF%86/Bitmap%E4%BC%98%E5%8C%96.md)
 
+### [3.卡顿流程](https://github.com/cwsky0221/AndroidAdvancedNotes/blob/main/%E8%BF%9B%E9%98%B6%E7%9F%A5%E8%AF%86/%E5%8D%A1%E9%A1%BF%E5%88%86%E6%9E%90.md)
+
 ## 源码解析
 
 ### [1.Okhttp](https://github.com/cwsky0221/AndroidAdvancedNotes/blob/main/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/Okhttp.md)
