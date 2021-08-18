@@ -20,3 +20,6 @@
 
 ### [2.Okhttp](https://github.com/cwsky0221/AndroidAdvancedNotes/blob/main/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/Okhttp.md)
 
+
+## 问题解析
+### [1.gitignore忽略无效]()
