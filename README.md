@@ -27,3 +27,5 @@
 
 ## 问题解析
 ### [1.gitignore忽略无效](https://github.com/cwsky0221/AndroidAdvancedNotes/blob/main/%E9%97%AE%E9%A2%98%E8%A7%A3%E6%9E%90/git%E5%BF%BD%E7%95%A5%E6%97%A0%E6%95%88.md)
+
+### [2.腾讯X5集成相关问题](https://github.com/cwsky0221/AndroidAdvancedNotes/blob/main/%E9%97%AE%E9%A2%98%E8%A7%A3%E6%9E%90/%E8%85%BE%E8%AE%AFX5%E5%86%85%E6%A0%B8%E9%9B%86%E6%88%90.md)
