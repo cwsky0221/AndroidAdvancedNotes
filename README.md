@@ -14,7 +14,9 @@
 
 ### [3.卡顿流程](https://github.com/cwsky0221/AndroidAdvancedNotes/blob/main/%E8%BF%9B%E9%98%B6%E7%9F%A5%E8%AF%86/%E5%8D%A1%E9%A1%BF%E5%88%86%E6%9E%90.md)
 
-### [4.Java虚拟机原理](https://github.com/cwsky0221/AndroidAdvancedNotes/blob/main/%E8%BF%9B%E9%98%B6%E7%9F%A5%E8%AF%86/Java%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%90%86%E8%A7%A3.md)
+### [4.ANR原理](https://github.com/cwsky0221/AndroidAdvancedNotes/blob/main/%E8%BF%9B%E9%98%B6%E7%9F%A5%E8%AF%86/ANR%E5%8E%9F%E7%90%86.md)
+
+### [5.Java虚拟机原理](https://github.com/cwsky0221/AndroidAdvancedNotes/blob/main/%E8%BF%9B%E9%98%B6%E7%9F%A5%E8%AF%86/Java%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%90%86%E8%A7%A3.md)
 
 ## 源码解析
 
