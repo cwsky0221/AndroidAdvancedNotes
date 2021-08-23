@@ -17,6 +17,14 @@ git stash pop 恢复临时缓冲区顶部的数据到本地分支
 
 git fetch 拉取远程分支最新修改，但是不会同步代码到本地分支
 
+git branch 查看分支
+
+git checkout 分支名 切换分支
+
+git checkout -b 分支名 创建并切换分支
+
+git checkout 文件名 丢弃修改，针对未执行“git add”的文件
+
 ##### 进阶操作
 
 **一.合并操作merge，rebase**
@@ -125,6 +133,8 @@ git push --force-with-lease
 >git reset —mixed [commit]	改变提交点，同时改变暂存区的内容 默认是这个
 >git reset —hard [commit]	暂存区、工作区的内容都会被修改到与提交点完全一致的状态
 >git reset --hard HEAD	让工作区回到上次提交时的状态
+
+git reset 文件名 丢弃修改，针对已执行“git add”的文件，注意和git checkout的区别
 
 2.git revert
 用一个新提交来消除一个历史提交所做的任何修改
