@@ -6,6 +6,7 @@
 ### [2.各种Activity的区别](https://github.com/cwsky0221/AndroidAdvancedNotes/blob/main/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%90%84%E7%A7%8DActivity%E7%9A%84%E5%8C%BA%E5%88%AB.md)
 ### [3.targetSdkVersion的原理](https://github.com/cwsky0221/AndroidAdvancedNotes/blob/main/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/targetSdkVersion%E5%8E%9F%E7%90%86.md)
 ### [4.Git操作指南](https://github.com/cwsky0221/AndroidAdvancedNotes/blob/main/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Git%E6%93%8D%E4%BD%9C%E6%8C%87%E5%8D%97.md)
+### [5.Gradle,Gradle Wrapper,Android Plugin for Gradle的区别]()
 
 ## 进阶知识
 
