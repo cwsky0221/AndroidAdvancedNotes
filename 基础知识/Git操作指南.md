@@ -12,7 +12,7 @@ git push / git push origin 分支名
 git log 线型查看提交日志
 git log --graph --decorate --all  图片的形式查看提交日志
 
-git stash [--include-untracked] 保存到临时缓冲区，包括本地新增的文件,并恢复当前本地分支修改
+git stash save [--include-untracked] [message]保存到临时缓冲区，包括本地新增的文件,并恢复当前本地分支修改
 git stash pop 恢复临时缓冲区顶部的数据到本地分支
 
 git fetch 拉取远程分支最新修改，但是不会同步代码到本地分支
