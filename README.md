@@ -7,9 +7,8 @@
 ### [3.targetSdkVersion的原理](https://github.com/cwsky0221/AndroidAdvancedNotes/blob/main/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/targetSdkVersion%E5%8E%9F%E7%90%86.md)
 ### [4.Git操作指南](https://github.com/cwsky0221/AndroidAdvancedNotes/blob/main/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Git%E6%93%8D%E4%BD%9C%E6%8C%87%E5%8D%97.md)
 ### [5.Gradle,Gradle Wrapper,Android Plugin for Gradle的区别](https://github.com/cwsky0221/AndroidAdvancedNotes/blob/main/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Gradle%2CGradle%20Wrapper%2CAndroid%20Plugin%20for%20Gradle%E7%9A%84%E5%8C%BA%E5%88%AB.md)
-### [6.Markdown基本语法](https://github.com/cwsky0221/AndroidAdvancedNotes/blob/main/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95.txt)
-### [7.Android的Lambda和java的Lambda的区别]
-(https://github.com/cwsky0221/AndroidAdvancedNotes/blob/main/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Android%E7%9A%84Lambda%20%E5%92%8C%20java%20%E7%9A%84Lambda%E7%9A%84%E5%8C%BA%E5%88%AB.md)
+### [6.Markdown基本语法](https://github.com/cwsky0221/AndroidAdvancedNotes/blob/main/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95.txt)  
+### [7.Android的Lambda和java的Lambda的区别](https://github.com/cwsky0221/AndroidAdvancedNotes/blob/main/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Android%E7%9A%84Lambda%20%E5%92%8C%20java%20%E7%9A%84Lambda%E7%9A%84%E5%8C%BA%E5%88%AB.md)
 
 ## 进阶知识
 
