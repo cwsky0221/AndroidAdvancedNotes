@@ -82,3 +82,7 @@ private static synthetic lambda$new$0(Landroid/view/View;)V
 
 > 所以相对来说安卓的Lambda比java8的Lambda更像是一个语法糖，因为是由Desugar脱糖器处理成匿名内部类。
 
+*总结：java会用invokeDynmic来处理lambda，而在Android上仅仅是个存语法糖了，transformClassesWithDesugarForDebug会将lambda翻译成匿名内部类*
+
+感谢：[https://juejin.cn/post/6918733287015841800/](https://juejin.cn/post/6918733287015841800/)
+
