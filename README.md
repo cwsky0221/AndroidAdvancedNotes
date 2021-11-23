@@ -11,7 +11,7 @@
 ### [7.Android的Lambda和java的Lambda的区别](https://github.com/cwsky0221/AndroidAdvancedNotes/blob/main/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Android%E7%9A%84Lambda%20%E5%92%8C%20java%20%E7%9A%84Lambda%E7%9A%84%E5%8C%BA%E5%88%AB.md)
 
 ## java基础知识
-### [1.java内部类]()
+### [1.java内部类](https://github.com/cwsky0221/AndroidAdvancedNotes/blob/main/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/java%E5%86%85%E9%83%A8%E7%B1%BB.md)
 
 ## 进阶知识
 
